@@ -1,0 +1,14 @@
+#ifndef _INCLUDE_GUARD_VECTORTYPEUTILITYLIBRARY_H_
+#define _INCLUDE_GUARD_VECTORTYPEUTILITYLIBRARY_H_
+
+
+
+#include <Vector2.h>
+
+#include <Vector3.h>
+
+#include <Vector4.h>
+
+
+
+#endif	// #ifndef _INCLUDE_GUARD_VECTORTYPEUTILITYLIBRARY_H_

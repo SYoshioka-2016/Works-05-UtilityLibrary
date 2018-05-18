@@ -1,0 +1,14 @@
+#ifndef _INCLUDE_GUARD_MATRIXTYPEUTILITYLIBRARY_H_
+#define _INCLUDE_GUARD_MATRIXTYPEUTILITYLIBRARY_H_
+
+
+
+#include <Matrix2By2.h>
+
+#include <Matrix3By3.h>
+
+#include <Matrix4By4.h>
+
+
+
+#endif	// #ifndef _INCLUDE_GUARD_MATRIXTYPEUTILITYLIBRARY_H_
